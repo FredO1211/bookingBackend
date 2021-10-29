@@ -1,8 +1,0 @@
-spring:
-  datasource:
-    url: 'jdbc:h2:file:~/booking-db'
-  h2.console:
-    enabled: true
-    path: '/console'
-  rabbitmq:
-    addresses: 'amqps://fdlhrfww:jsp0lj5mcMtLUdvRBPbQCb3ChZCQfYY5@kangaroo.rmq.cloudamqp.com/fdlhrfww'
